@@ -3,7 +3,7 @@
 </p>
 
 ## Description
-**Dauthi** is a tool designed to perform authentication attacks against various Mobile Device Management (MDM) solutions. This tool represents the evolutionary growth from my original research on [airCross](https://github.com/emptynebuli/airCross) and [rustyIron](https://github.com/emptynebuli/rustyIron). Unlike these past examples, Dauthi is build with a dedicated class for each framework. this allows for the tool to scale and meet the demands of various MDM tools and platforms.
+**Dauthi** is a tool designed to perform authentication attacks against various Mobile Device Management (MDM) solutions. This tool represents the evolutionary growth from my original research on [airCross](https://github.com/emptynebuli/airCross), [rustyIron](https://github.com/emptynebuli/rustyIron), and [BlackBerry](https://emptynebuli.github.io/tooling/2024/04/22/blackberryMDM.html). Unlike these past examples, Dauthi is build with a dedicated class for each framework. this allows for the tool to scale and meet the demands of various MDM tools and platforms.
 
 ## Usage
 ```
